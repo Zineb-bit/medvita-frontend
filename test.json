@@ -1,0 +1,10 @@
+{
+    "name": "drayef",
+    "age": 19,
+    "sex": "female",
+    "models":{
+        "php": true,
+        "json": false
+    },
+    "fruits": ["Orange","WaterMelon"]
+}
