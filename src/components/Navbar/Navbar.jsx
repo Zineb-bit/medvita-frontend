@@ -1,3 +1,4 @@
+import React from 'react';
 import { FaUserCircle } from "react-icons/fa";
 import { IoChevronDown, IoSearchOutline } from "react-icons/io5";
 

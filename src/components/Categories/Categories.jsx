@@ -1,3 +1,5 @@
+import React from "react";
+
 export default function Categories() {
     const categories = [
       { name: "Apnée du sommeil", img: "/images/Ellipse 2.png" },
